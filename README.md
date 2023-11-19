@@ -23,3 +23,8 @@ sudo usermod -aG docker jenkins
 
 sudo hostname admin
 sudo su - jenkins
+# install kops software
+# install kubectl
+# install aws cli
+# attache kubernetes role to this server
+
